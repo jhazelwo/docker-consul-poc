@@ -1,0 +1,9 @@
+
+image_name="jhazelwo/consul-poc"
+#nodename="--hostname=appserv01"
+#volumes="-v /export/appdata:/appdata"
+run_rm="--rm=true"
+build_rm="--force-rm=true"
+#shmsize="--shm-size=2g"
+#ports="-p 443:443 -p 80:80"
+
